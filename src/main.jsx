@@ -10,7 +10,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import Home from "./Pages/Home/Home";
 import AboutUs from "../src/Pages/AboutUs/AboutUs";
-import ContactUs from "./Pages/ContactUs/ContactUs";
+import ContactUs from "./pages/ContactUs/ContactUs.jsx";
 import TermsAndConditions from "./Pages/Terms and Conditions/TermsAndConditions";
 import ShippingAndDelivery from "./Pages/Shipping and Delivery/ShippingAndDelivery";
 import Privacy from "./Pages/Privacy Policy/Privacy";
