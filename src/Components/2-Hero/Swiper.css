@@ -1,0 +1,30 @@
+/* Ensure the Swiper container takes full width and height */
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: var(--background-clr);
+  /* Center slide content vertically and horizontally */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Ensure each slide takes up the full width */
+  width: 100%;
+  height: auto;
+
+  &:hover {
+    cursor: grab;
+  }
+  &:active {
+    cursor: grabbing;
+  }
+}
+.swiper-slide img {
+  display: block;
+  height: auto;
+  object-fit: cover;
+}
