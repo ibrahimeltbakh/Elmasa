@@ -72,6 +72,7 @@ a {
 /***************************************************************************************************************************/
 /* Start Components */
 .main-title {
+  text-align: center;
   position: relative;
   border: 2px solid black;
   width: fit-content;
@@ -83,7 +84,7 @@ a {
 }
 @media (max-width: 767px) {
   .main-title {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 .main-title:hover {

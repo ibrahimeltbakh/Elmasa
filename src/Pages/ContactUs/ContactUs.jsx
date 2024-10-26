@@ -1,7 +1,7 @@
 import "./contactus.css";
 import { useForm, ValidationError } from "@formspree/react";
 import Lottie from "lottie-react";
-import done from "../../../public/animations/done.json";
+import done from "../../animations/done.json";
 import Hero from "../../Components/2-Hero/Hero";
 export default function ContactUs() {
   const [state, handleSubmit] = useForm("xrbgzynr");
