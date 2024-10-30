@@ -71,7 +71,8 @@ a {
 /* Start global rules */
 /***************************************************************************************************************************/
 /* Start Components */
-.main-title {
+.main-title,
+.myButton {
   text-align: center;
   position: relative;
   border: 2px solid black;

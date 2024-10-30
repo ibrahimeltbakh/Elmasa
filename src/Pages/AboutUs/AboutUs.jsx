@@ -5,53 +5,7 @@ export default function AboutUs() {
       <Hero href={"#aboutus"} />
       <div id="aboutus" className="aboutus sectionPadding">
         <div className="container">
-          <h2 className="main-title">About US</h2>
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
+          <h2 className="main-title">عنا</h2>
         </div>
       </div>
     </>
